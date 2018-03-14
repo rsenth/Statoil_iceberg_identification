@@ -1,5 +1,5 @@
 
-#Identify if an object is a ship or iceberg from satellite data.
+#Identify if an object is a ship or an iceberg from satellite data.
 
 import numpy as np
 import pandas as pd
